@@ -12,16 +12,16 @@ console-ports:
   - name: Console-RE1
     type: rj-45
 module-bays:
-  - name: PEM0
+  - name: PEM 0
     label: PSU 0
     position: PSU0
-  - name: PEM1
+  - name: PEM 1
     label: PSU 1
     position: PSU1
-  - name: PEM2
+  - name: PEM 2
     label: PSU 2
     position: PSU2
-  - name: PEM3
+  - name: PEM 3
     label: PSU 3
     position: PSU3
   - name: FPC 0
@@ -106,7 +106,9 @@ module-bays:
     position: '11/0'
   - name: FPC 11 MIC 1
     position: '11/1'
-  - name: Fan Tray 0
+  - name: FAN TRAY 0
     position: ft0
-  - name: Fan Tray 1
+  - name: FAN TRAY 1
     position: ft1
+  - name: MIDPLANE
+    position: midplane

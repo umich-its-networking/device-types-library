@@ -1,0 +1,16 @@
+---
+manufacturer: Ubiquiti
+model: airFiber 24
+slug: ubiquiti-airfiber-24
+part_number: AF-24
+interfaces:
+  - name: br0
+    type: bridge
+    mgmt_only: true
+  - name: eth0
+    label: Ethernet
+    type: 1000base-t
+    poe_mode: pd
+  - name: ubond0
+    label: Wireless
+    type: ieee802.11ax

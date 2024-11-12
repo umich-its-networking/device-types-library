@@ -1,0 +1,14 @@
+manufacturer: Ubiquiti
+name: PowerBridge M5
+model: PowerBridge M5
+slug: ubiquiti-pbm5
+part_number: PBM5
+u_height: 0
+is_full_depth: false
+comments: '[PowerBridge M5](https://dl.ubnt.com/pbm5_datasheet.pdf)'
+interfaces:
+  - name: lan0
+    type: 1000base-t
+    poe_mode: pd
+  - name: wlan0
+    type: ieee802.11ac
