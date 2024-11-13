@@ -9,16 +9,16 @@ comments: '[Juniper MX960 Data Sheet](https://www.juniper.net/us/en/products-ser
 u_height: 16
 is_full_depth: true
 module-bays:
-  - name: PEM 0
+  - name: PEM0
     label: PSU 0
     position: PSU0
-  - name: PEM 1
+  - name: PEM1
     label: PSU 1
     position: PSU1
-  - name: PEM 2
+  - name: PEM2
     label: PSU 2
     position: PSU2
-  - name: PEM 3
+  - name: PEM3
     label: PSU 3
     position: PSU3
   - name: FPC 0

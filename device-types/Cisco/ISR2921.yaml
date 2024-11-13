@@ -26,6 +26,6 @@ power-ports:
     maximum_draw: 320
 module-bays:
   - name: 0/0
-    position: "0/0"
+    position: '0/0'
   - name: 0/1
-    position: "0/1"
+    position: '0/1'
