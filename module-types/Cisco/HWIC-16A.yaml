@@ -5,36 +5,3 @@ part_number: HWIC-16A
 comments: '[Cisco 16-Port Asynchronous Serial NIM](https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/datasheet-c78-739968.html)'
 weight: 620
 weight_unit: g
-console-server-ports:
-  - name: Async{module}/0
-    type: rj-45
-  - name: Async{module}/1
-    type: rj-45
-  - name: Async{module}/2
-    type: rj-45
-  - name: Async{module}/3
-    type: rj-45
-  - name: Async{module}/4
-    type: rj-45
-  - name: Async{module}/5
-    type: rj-45
-  - name: Async{module}/6
-    type: rj-45
-  - name: Async{module}/7
-    type: rj-45
-  - name: Async{module}/8
-    type: rj-45
-  - name: Async{module}/9
-    type: rj-45
-  - name: Async{module}/10
-    type: rj-45
-  - name: Async{module}/11
-    type: rj-45
-  - name: Async{module}/12
-    type: rj-45
-  - name: Async{module}/13
-    type: rj-45
-  - name: Async{module}/14
-    type: rj-45
-  - name: Async{module}/15
-    type: rj-45
