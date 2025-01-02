@@ -1,6 +1,6 @@
-
----
 manufacturer: APC
 model: SRT5KRMXLT-5KTF
-slug: apc-srt5krmxlt-5ktf
+module-bays:
+- name: NIC
 part_number: SRT5KRMXLT-5KTF
+slug: apc-srt5krmxlt-5ktf

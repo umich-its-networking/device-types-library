@@ -1,5 +1,6 @@
----
 manufacturer: APC
 model: SMX2000RMLV2UNC
-slug: apc-smx2000rmlv2unc
+module-bays:
+- name: NIC
 part_number: SMX2000RMLV2UNC
+slug: apc-smx2000rmlv2unc

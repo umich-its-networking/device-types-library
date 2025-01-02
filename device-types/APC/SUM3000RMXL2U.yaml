@@ -1,6 +1,6 @@
-
----
 manufacturer: APC
 model: SUM3000RMXL2U
-slug: apc-sum3000rmxl2u
+module-bays:
+- name: NIC
 part_number: SUM3000RMXL2U
+slug: apc-sum3000rmxl2u

@@ -1,5 +1,6 @@
----
 manufacturer: APC
 model: SMX2000LV
-slug: apc-smx2000lv
+module-bays:
+- name: NIC
 part_number: SMX2000LV
+slug: apc-smx2000lv

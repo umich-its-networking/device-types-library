@@ -1,6 +1,6 @@
-
----
 manufacturer: APC
 model: SURTD5000RMXLP3U
-slug: apc-surtd5000rmxlp3u
+module-bays:
+- name: NIC
 part_number: SURTD5000RMXLP3U
+slug: apc-surtd5000rmxlp3u

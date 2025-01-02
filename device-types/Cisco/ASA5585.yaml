@@ -1,8 +1,8 @@
 ---
 manufacturer: Cisco
-model: ASA5585-S60-2A-K9
-slug: cisco-asa5585-s60-2a-k9
-part_number: ASA5585-S60-2A-K9
+model: ASA5585
+slug: cisco-asa5585
+part_number: ASA5585
 u_height: 2
 console-ports:
   - name: Con 0
@@ -42,3 +42,5 @@ interfaces:
     mgmt_only: true
   - name: Management0/1
     type: 100base-tx
+module-bays:
+  - name: MODULE 0

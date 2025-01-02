@@ -1,0 +1,8 @@
+---
+manufacturer: Dell
+model: PowerEdge 2950
+part_number: POWEREDGE 2950
+slug: dell-poweredge-2950
+u_height: 1
+is_full_depth: true
+airflow: front-to-rear

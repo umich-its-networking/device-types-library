@@ -1,6 +1,6 @@
-
----
 manufacturer: APC
 model: SYA16K16P
-slug: apc-sya16k16p
+module-bays:
+- name: NIC
 part_number: SSYA16K16P
+slug: apc-sya16k16p

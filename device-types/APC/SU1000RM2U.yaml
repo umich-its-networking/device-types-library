@@ -1,6 +1,6 @@
-
----
 manufacturer: APC
 model: SU1000RM2U
-slug: apc-su1000rm2u
+module-bays:
+- name: NIC
 part_number: SU1000RM2U
+slug: apc-su1000rm2u

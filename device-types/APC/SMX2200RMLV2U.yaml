@@ -1,5 +1,6 @@
----
 manufacturer: APC
 model: SMX2200RMLV2U
-slug: apc-smx2200rmlv2u
+module-bays:
+- name: NIC
 part_number: SMX2200RMLV2U
+slug: apc-smx2200rmlv2u

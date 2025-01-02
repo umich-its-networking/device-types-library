@@ -1,5 +1,6 @@
----
 manufacturer: APC
 model: MX3000
-slug: apc-mx3000
+module-bays:
+- name: NIC
 part_number: MX3000
+slug: apc-mx3000

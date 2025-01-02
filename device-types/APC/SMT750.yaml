@@ -1,5 +1,6 @@
----
 manufacturer: APC
 model: SMT750
-slug: apc-smt750
+module-bays:
+- name: NIC
 part_number: SMT750
+slug: apc-smt750
