@@ -1,0 +1,25 @@
+---
+manufacturer: Cisco
+model: ISR2611
+part_number: CISCO2611
+slug: cisco-isr2611
+u_height: 1
+is_full_depth: false
+interfaces:
+  - name: FastEthernet0/0
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+console-ports:
+  - name: con 0
+    type: rj-45
+  - name: aux
+    type: rj-45
+  - name: usb0
+    type: usb-mini-b
+  - name: usb1
+    type: usb-mini-b
+power-ports:
+  - name: PSU0
+    type: iec-60320-c6
+    maximum_draw: 160
