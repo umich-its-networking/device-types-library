@@ -1,6 +1,7 @@
 ---
 manufacturer: Juniper
 model: EX2200-C-12P
+part_number: EX2200-C-12P
 slug: juniper-ex2200-c-12p
 u_height: 1
 interfaces:
