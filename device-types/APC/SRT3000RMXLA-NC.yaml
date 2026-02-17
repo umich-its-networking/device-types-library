@@ -1,0 +1,6 @@
+manufacturer: APC
+model: SRT1500RMXLA-NC
+module-bays:
+- name: NIC
+part_number: SRT1500RMXLA-NC
+slug: apc-srt1500rmxla-nc
