@@ -1,0 +1,6 @@
+manufacturer: APC
+model: BR1500MS
+module-bays:
+- name: NIC
+part_number: BR1500MS
+slug: apc-br1500ms

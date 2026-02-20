@@ -1,0 +1,44 @@
+---
+manufacturer: Cisco
+model: NC-57-18DD-SE
+part_number: NC-57-18DD-SE
+comments: https://www.cisco.com/c/en/us/products/collateral/routers/network-convergence-system-5500-series/datasheet-c78-737779.html
+interfaces:
+  - name: Fh0/{module}/0/0
+    type: 400gbase-x-qsfpdd
+  - name: Fh0/{module}/0/1
+    type: 400gbase-x-qsfpdd
+  - name: Fh0/{module}/0/2
+    type: 400gbase-x-qsfpdd
+  - name: Fh0/{module}/0/3
+    type: 400gbase-x-qsfpdd
+  - name: Fh0/{module}/0/4
+    type: 400gbase-x-qsfpdd
+  - name: Fh0/{module}/0/5
+    type: 400gbase-x-qsfpdd
+  - name: Fh0/{module}/0/6
+    type: 400gbase-x-qsfpdd
+  - name: Fh0/{module}/0/7
+    type: 400gbase-x-qsfpdd
+  - name: Fh0/{module}/0/8
+    type: 400gbase-x-qsfpdd
+  - name: Fh0/{module}/0/9
+    type: 400gbase-x-qsfpdd
+  - name: Fh0/{module}/0/10
+    type: 400gbase-x-qsfpdd
+  - name: Fh0/{module}/0/11
+    type: 400gbase-x-qsfpdd
+  - name: Fh0/{module}/0/12
+    type: 400gbase-x-qsfpdd
+  - name: Fh0/{module}/0/13
+    type: 400gbase-x-qsfpdd
+  - name: Fh0/{module}/0/14
+    type: 400gbase-x-qsfpdd
+  - name: Fh0/{module}/0/15
+    type: 400gbase-x-qsfpdd
+  - name: Fh0/{module}/0/16
+    type: 400gbase-x-qsfpdd
+  - name: Fh0/{module}/0/17
+    type: 400gbase-x-qsfpdd
+  - name: Fh0/{module}/0/18
+    type: 400gbase-x-qsfpdd
