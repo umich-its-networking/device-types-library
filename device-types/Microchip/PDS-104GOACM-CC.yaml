@@ -1,0 +1,31 @@
+---
+manufacturer: Microchip
+model: PDS-104GO/AC/M-CC
+slug: microchip-pds-104gcoacm-cc
+part_number: PDS-104GO/AC/M-CC
+u_height: 0
+is_full_depth: false
+comments: '[Microchip PDS-104GCO product page](https://www.microchip.com/en-us/product/PDS-104go) | [Distributor listing (PDS-104GCO)](https://www.alldatasheet.com/datasheet-pdf/pdf/1328720/MICROCHIP/PDS-104GOSLASHACSLASHM-CC.html)'
+power-ports:
+  - name: AC Input
+    type: iec-60320-c14
+interfaces:
+  - name: Ethernet 0
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type4-ieee802.3bt
+  - name: Ethernet 1
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type4-ieee802.3bt
+  - name: Ethernet 2
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type4-ieee802.3bt
+  - name: Ethernet 3
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type4-ieee802.3bt
+  - name: SFP1
+    type: 1000base-x-sfp
+
